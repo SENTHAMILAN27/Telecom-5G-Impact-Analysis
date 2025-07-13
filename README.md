@@ -55,7 +55,7 @@ This project was completed as part of the [Codebasics Data Analyst Bootcamp](htt
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Screenshots/dashboard_preview.png)
+![Dashboard PDF](Pdf/Wavecon_dashboard.pdf)
 
 ---
 
