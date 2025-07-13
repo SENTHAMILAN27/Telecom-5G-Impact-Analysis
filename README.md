@@ -73,6 +73,6 @@ It also helped me think beyond visuals — interpreting % changes in context, un
 
 ---
 
-> “Don't just show data. Tell what it means, and what to do next.”  
-> – My takeaway from this internship project
+--> Don't just show data. Tell what it means, and what to do next.
+
 
