@@ -45,7 +45,7 @@ This project was completed as part of the [Codebasics Data Analyst Bootcamp](htt
 
 ## 🎬 Video Presentation
 
-📺 [Watch the full presentation](#) *(https://www.linkedin.com/posts/senthamilan27_powerbi-dataanalytics-codebasicsvirtualinternship-activity-7350035273587576833-0C5Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEol-H8BJHDIx9ZD_9_SnujWhvQ3-0Z4VHU)*
+📺 [Watch the full presentation] (https://www.linkedin.com/posts/senthamilan27_powerbi-dataanalytics-codebasicsvirtualinternship-activity-7350035273587576833-0C5Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEol-H8BJHDIx9ZD_9_SnujWhvQ3-0Z4VHU)
 
 ---
 Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZmE5YzNiNjYtZjM0MS00YTMxLThkMWMtZTVmZWE2MTAyY2I5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
